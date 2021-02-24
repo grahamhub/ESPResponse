@@ -1,0 +1,20 @@
+#project-title {
+  width: 100%;
+}
+
+#project-title > .col {
+  width: inherit;
+}
+
+.navbar-brand {
+  width: inherit;
+  text-align: center;
+}
+
+#cp-btn {
+  width: 18%;
+}
+
+#cp-btn::placeholder {
+  color: white;
+}
