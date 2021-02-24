@@ -7,8 +7,8 @@
 #define BUTTON 12 // GPIO12 - D6 
 #define API_PORT 8080 // Port number for API 
 
-const char* ssid = "Holonet"; // your router's SSID
-const char* password = "alfaromeo1979";
+const char* ssid = "fake_ssid"; // your router's SSID
+const char* password = "fake_password"; // your router's password
 
 int redValue; 
 int greenValue;
