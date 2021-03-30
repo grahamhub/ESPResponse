@@ -10,3 +10,7 @@ __Important__: the file contained in `server/` is the code for the NodeMCU micro
 ### Why?
 
 I thought it'd be neat! And I wanted to familiarize myself more with JavaScript. For such a simple project, I did go a bit overboard with the JS, but that was the purpose of it. Including the NodeMCU in the ecosystem just made it more interesting to me so that I wouldn't lose focus.
+
+## Demo
+
+You can see a demo [here](https://www.youtube.com/watch?v=ivKMvHVHMCA).
